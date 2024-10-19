@@ -1,0 +1,13 @@
+
+com:
+  itranlin:
+    hexagon:
+      master:
+        path: 'plugins'
+        auto-delete: true
+        work-dir: "plugins_work"
+        url-replace: true
+logging:
+  level:
+    com.itranlin.hexagonexample: debug
+    com.itranlin.hexagon: trace
